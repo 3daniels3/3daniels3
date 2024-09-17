@@ -32,3 +32,6 @@
 | ![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=WHITE) | Version Control | Collaboration |
 | ![HTML5/CSS3](https://img.shields.io/badge/Html-black?style=for-the-badge&logo=HTML5&logoColor=WHITE) | Web Design | Frontend Development |
 
+<br>
+<h1 align="center"> <code>🎩thanks for watching!🎩</code> </h1>
+

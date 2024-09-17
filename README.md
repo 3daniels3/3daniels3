@@ -12,6 +12,6 @@
 <h1 align="center">Find me at!</h1>
 <div align="center">
 <br>
-<a href="https://www.linkedin.com/in/daniel-david-sanchez-florez-8550a12a1/" target="blank"> <img src="https://img.shields.io/badge/Daniel%20David%20Sanchez-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=danidsf113%40gmail.com"></img> </a>
+<a href="https://www.linkedin.com/in/daniel-david-sanchez-florez-8550a12a1/" target="_blank"> <img src="https://img.shields.io/badge/Daniel%20David%20Sanchez-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=danidsf113%40gmail.com"></img> </a>
 <a align="center" href="mailto:danidsf113@gmail.com" target="blank"> <img src="https://img.shields.io/badge/DANIDSF113%40GMIAL.COM-red?style=for-the-badge&logo=gmail&logoColor=white&link=danidsf113%40gmail.com"></img> </a>
 </div>

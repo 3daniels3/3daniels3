@@ -19,7 +19,7 @@
 <Br>
 <hr>
 <Br>
-<h1 align="center">Skills I have! 🤸‍♂</h1>
+<h1 align="center">My Skills! </h1>
 <Br>
 
 | Technology | Related Skills | Application Areas |

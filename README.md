@@ -11,4 +11,4 @@
   <hr>
 <h1 align="center">Find me at:</h1>
 <br>
-<a align="center" href="danidsf113@gmail.com" target="blank">a<img></img> </a>
+<a align="center" href="mailto:danidsf113@gmail.com" target="blank">a<img ></img> </a>

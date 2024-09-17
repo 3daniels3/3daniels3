@@ -11,5 +11,4 @@
   <hr>
 <h1 align="center">Find me at:</h1>
 <br>
-<a><img src="https://img.shields.io/badge/DANIDSF113%40GMIAL.COM-red?style=for-the-badge&logo=gmail&logoColor=white&link=danidsf113%40gmail.com
-"></img> </a>
+<a align="center" href="danidsf113@gmail.com">a<img></img> </a>

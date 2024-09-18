@@ -27,7 +27,7 @@
 | ![javascript-native](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=WHITE) | Continuous Learning | Frontend Development |
 | ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=WHITE) | Team Collaboration | Web Development |
 | ![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=netbeans&logoColor=WHITE) | Problem Solving | Enterprise Solutions |
-| ![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php&logoColor=WHITE) | C# Programming | Backend Development |
+| ![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php&logoColor=WHITE) | PHP Programming | Backend Development |
 | ![MYSQL](https://img.shields.io/badge/Mysql-black?style=for-the-badge&logo=Mysql&logoColor=WHITE) | Database Management | Data Storage |
 | ![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=WHITE) | Version Control | Collaboration |
 | ![HTML5/CSS3](https://img.shields.io/badge/Html-black?style=for-the-badge&logo=HTML5&logoColor=WHITE) | Web Design | Frontend Development |
